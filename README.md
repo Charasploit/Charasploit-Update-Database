@@ -1,5 +1,5 @@
-# Charasploit-Insider-Database
-This is the database of Charasploit insider.
+# Charasploit
+This is the database of Charasploit Updater.
 
 # Charasploit Updatelogs
 1. Anemo API is now Intergrated with WeAredevs in one executor
@@ -10,4 +10,6 @@ This is the database of Charasploit insider.
 3. is AnemoAPI is better or WeAreDevs API is better? Both of them when you inject AnemoAPI the url of cheatsquad.com pops up on your browser When you inject WeAreDevs API you need to wait until the cmd appears and disappear.
 4. is Charasploit is a virus or not? False, your antivirus or your browser says its dangerous because of obfuscation or dll.
 # What is Charasploit?
-Charasploit is a exploit from NotAlex#5506 and its keyless with multi api it runs owlhub and all scripts and its level 7,6
+Charasploit is a exploit from AlexGG#5506 and its keyless with multi api it runs owlhub and all scripts and its level 7,6
+# Good News
+Charasploit 4.0 is coming soon until 2022
